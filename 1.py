@@ -4,7 +4,7 @@
 
 1
 2
-x
-y
+qq
+lenovo
 5
 
