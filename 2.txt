@@ -1,13 +1,1 @@
 
-
-
-
-
-
-add in test
-<<<<<<< HEAD
-
-add in master
-=======
-add in test,
->>>>>>> test
