@@ -1,8 +1,12 @@
 
-a
-s
-d
+ffd
+vdd
+v
 f
+dg
+dg
+gd
 g
-h
-init 2
+gd
+g
+
