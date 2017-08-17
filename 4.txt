@@ -13,3 +13,8 @@ fd
 fd
 df
 f
+cnsd
+v
+vs
+csv
+sc
