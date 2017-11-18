@@ -17,3 +17,4 @@ class A(object):
 
 a = A()
 a._a()
+
