@@ -1,8 +1,9 @@
 
-
 class A(object):
     x = 1
     __y = 2
+    import gevent
+    gevent.Greenlet()
 
     def a(self, arg):
         print self.arg
@@ -18,3 +19,11 @@ class A(object):
 a = A()
 a._a()
 
+
+
+def test(parameter_list):
+    ''' 
+    i love python and go, fuck java...
+    '''
+    print("------------hahahahha-------------")
+    
