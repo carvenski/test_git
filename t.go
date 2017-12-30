@@ -1,15 +1,10 @@
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
+import "log"
 
-func main() {
-	fmt.Print()
+
+func haha()  {
+	fmt.Println()
 }
 
-
-for {
-	fmt.Println("")
-	
-}
