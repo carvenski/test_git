@@ -6,5 +6,6 @@ import "log"
 
 func haha()  {
 	fmt.Println()
+	fmt.Println()
 }
 

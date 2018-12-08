@@ -11,8 +11,8 @@ class A(object):
 
     @classmethod
     def _a(cls):
-        print cls
-        print cls.x
+        print(cls)
+        print(cls.x)
 
     def __a(self):
         print self.__y
